@@ -3,7 +3,7 @@
   <img
     src="./nexpulse_profile_banner.gif"
     alt="Dilmani Balalla - Animated Developer Profile Banner"
-    width="100%" height="200"
+    width="100%" height="250"
   />
 </p>
 

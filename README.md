@@ -1,7 +1,12 @@
-## Hi there, I'm Dilmani Balalla! 👋
-
-🎓 Computing Undergraduate | 💻 Full-Stack Developer
-
+```html
+<p align="center">
+  <img
+    src="./nexpulse_profile_banner.gif"
+    width="100%"
+    alt="Animated developer profile banner"
+  />
+</p>
+```
 I'm a software developer passionate about building web and mobile applications, exploring new technologies, and solving real-world problems through code.
 
 - 🔭 **I'm currently working on:** SLSEA SolarWatch, a solar performance monitoring and investigation platform, and exploring new ideas through personal projects.

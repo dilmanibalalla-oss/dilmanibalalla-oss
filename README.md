@@ -9,7 +9,6 @@
 
 I'm a software developer passionate about building web and mobile applications, exploring new technologies, and solving real-world problems through code.
 
-- 🔭 **I'm currently working on:** SLSEA SolarWatch, a solar performance monitoring and investigation platform, and exploring new ideas through personal projects.
 - 🌱 **I'm currently learning:** DevOps, cloud technologies, CI/CD pipelines, containerisation, and deployment practices.
 - 👯 **I'm looking to collaborate on:** Full-stack applications, open-source projects, backend development, and innovative software solutions.
 - 🤔 **I'm looking for help with:** Exploring better software architecture practices, scalable applications, and DevOps workflows.
